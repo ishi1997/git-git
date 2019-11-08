@@ -1,4 +1,3 @@
 receipe book
 
-pasta
 rice
